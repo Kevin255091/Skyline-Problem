@@ -1,9 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <limits.h>
 #include "MaxHeap.h"
 
 #define MAX_SKYLINEPOINT_NUM 10000
