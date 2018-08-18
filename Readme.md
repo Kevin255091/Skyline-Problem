@@ -29,5 +29,5 @@ skyline < Input.txt
 
 For Unix-like system, type
 ```
-skyline.exe < Input.txt
+./skyline < Input.txt
 ```
