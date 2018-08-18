@@ -10,7 +10,7 @@ You need to have gcc or other c compiler installed on your computer.
 
 ### Compiling the code
 
-Use the command prompt and go to the directory where the files 'skyline.c', 'MaxHeap.c' and 'MaxHeap.h' are.
+Use the command prompt and go to the directory where the files "skyline.c", "MaxHeap.c" and "MaxHeap.h" are.
 Type the following command :
 
 ```
