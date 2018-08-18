@@ -1,12 +1,14 @@
 # Solving the skyline problem
 
-My C code for solving the skyline problem using the max heap data structure.
+My C code for solving the skyline problem using the max heap data structure. I also wrote two Python scripts
+to show the buildings and the skyline.
 
 ## Using the code
 
 ### Prerequisites
 
 You need to have gcc or other C compiler installed on your computer.
+You need to have Python and Python package "matplotlib" installed on your computer in order to run the Python scripts.
 
 ### Compiling the code
 
@@ -33,3 +35,23 @@ For Unix-like system, type
 ```
 
 The output result is identical to the content in the file "Output.txt".
+
+The following is the command to run the Python scripts properly.
+
+To show the building lines, type
+
+```
+python show_buildings.py Input.txt
+```
+
+To show the skyline, type
+
+```
+python show_skyline.py Output.txt
+```
+
+If the scripts can not work properly, you can comment the following two lines of code in both of the scripts:
+```
+mng = plt.get_current_fig_manager()
+mng.window.state('zoomed')
+```
