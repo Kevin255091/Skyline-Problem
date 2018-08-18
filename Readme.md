@@ -31,3 +31,5 @@ For Unix-like system, type
 ```
 ./skyline < Input.txt
 ```
+
+The output result is identical to the content in the file "Output.txt".
