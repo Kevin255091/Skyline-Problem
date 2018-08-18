@@ -34,9 +34,9 @@ For Unix-like system, type
 ./skyline < Input.txt
 ```
 
-The output result is identical to the content in the file "Output.txt".
+The output result should be identical to the content in the file "Output.txt".
 
-The following is the command to run the Python scripts properly.
+The following is the command to run the Python scripts.
 
 To show the building lines, type
 
