@@ -1,6 +1,7 @@
 # Solving the skyline problem
 
 My C code for solving the skyline problem using the max heap data structure. 
+
 I also wrote two Python scripts to show the buildings and the skyline.
 
 ## Using the code
@@ -8,6 +9,7 @@ I also wrote two Python scripts to show the buildings and the skyline.
 ### Prerequisites
 
 You need to have gcc or other C compiler installed on your computer.
+
 You need to have Python and Python package "matplotlib" installed on your computer in order to run the Python scripts.
 
 ### Compiling the code
