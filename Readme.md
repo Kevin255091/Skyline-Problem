@@ -15,6 +15,7 @@ You need to have Python and Python package "matplotlib" installed on your comput
 ### Compiling the code
 
 Use the command prompt and go to the directory where the files "skyline.c", "MaxHeap.c" and "MaxHeap.h" are.
+
 Type the following command :
 
 ```
@@ -24,6 +25,7 @@ gcc skyline.c MaxHeap.c -o skyline
 
 There is a test file 'Input.txt' containing the data about the buildings' positions and heights.
 For more details, please google "UVA online judge skyline problem" and check the problem specification.
+
 To run the test, type the following command.
 
 For Windows system, type
