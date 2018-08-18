@@ -1,4 +1,4 @@
-# An algorithm for skyline problem
+# Solving the skyline problem
 
 My c code for solving the skyline problem using the max heap data structure.
 
