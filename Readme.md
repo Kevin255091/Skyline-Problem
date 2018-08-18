@@ -50,7 +50,7 @@ To show the skyline, type
 python show_skyline.py Output.txt
 ```
 
-If the scripts can not work properly, you can comment the following two lines of code in both of the scripts:
+If the scripts can not work properly, you can delete the following two lines of code in both of the scripts:
 ```
 mng = plt.get_current_fig_manager()
 mng.window.state('zoomed')
