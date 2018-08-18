@@ -1,12 +1,12 @@
 # Solving the skyline problem
 
-My c code for solving the skyline problem using the max heap data structure.
+My C code for solving the skyline problem using the max heap data structure.
 
 ## Using the code
 
 ### Prerequisites
 
-You need to have gcc or other c compiler installed on your computer.
+You need to have gcc or other C compiler installed on your computer.
 
 ### Compiling the code
 
